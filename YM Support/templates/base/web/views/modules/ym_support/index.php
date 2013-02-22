@@ -8,7 +8,7 @@
  *
  * @package     TomatoCart
  * @author      Adie Tuk
- * @copyright   Copyright (c) 2012 Adie Tuk.
+ * @copyright   Copyright (c) 2013 Adie Tuk.
  * @license     http://www.gnu.org/licenses/gpl.html
  * @link        http://www.twitter.com/adietuk
  * @since       Version 1.0.4
