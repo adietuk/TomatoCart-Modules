@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <definitions>
+        <definition>
+            <key>box_ym_support_title</key>
+            <value><![CDATA[Bantuan Online (YM)]]></value>
+            <group>modules-boxes</group>
+        </definition>
+    </definitions>
+</language>

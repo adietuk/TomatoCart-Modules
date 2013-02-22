@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <definitions>
+        <definition>
+            <key>box_ym_support_title</key>
+            <value><![CDATA[雅虎通支持]]></value>
+            <group>modules-boxes</group>
+        </definition>
+    </definitions>
+</language>
