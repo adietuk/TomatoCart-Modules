@@ -15,7 +15,7 @@
  * @filesource  
  */
 
-class Facebook_Page extends TOC_Module {
+class Mod_Facebook_Page extends TOC_Module {
     
     protected $code = 'facebook_page';
     protected $author_name = 'Adie Tuk';

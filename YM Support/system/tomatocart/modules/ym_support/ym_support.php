@@ -17,7 +17,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Ym_Support extends TOC_Module {
+class Mod_Ym_Support extends TOC_Module {
     
     protected $code = 'ym_support';
     protected $author_name = 'Adie Tuk';
